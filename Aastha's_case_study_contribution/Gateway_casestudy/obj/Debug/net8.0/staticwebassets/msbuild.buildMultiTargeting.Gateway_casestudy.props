@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gateway_casestudy.props" />
+</Project>
