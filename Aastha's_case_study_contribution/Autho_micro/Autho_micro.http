@@ -1,0 +1,6 @@
+@Autho_micro_HostAddress = http://localhost:5165
+
+GET {{Autho_micro_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
