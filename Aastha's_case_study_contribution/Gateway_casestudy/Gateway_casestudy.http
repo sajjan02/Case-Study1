@@ -1,6 +1,0 @@
-@Gateway_casestudy_HostAddress = http://localhost:5265
-
-GET {{Gateway_casestudy_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

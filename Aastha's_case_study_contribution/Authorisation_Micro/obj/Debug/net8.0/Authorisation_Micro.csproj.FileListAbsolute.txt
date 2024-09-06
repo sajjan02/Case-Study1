@@ -1,7 +1,0 @@
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.csproj.AssemblyReference.cache
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.AssemblyInfoInputs.cache
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.AssemblyInfo.cs
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.csproj.CoreCompileInputs.cache
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\AasthaBajaj\Downloads\Microservices_case\Authorisation_Micro\obj\Debug\net8.0\Authorisation_Micro.MvcApplicationPartsAssemblyInfo.cache
